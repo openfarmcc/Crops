@@ -1,3 +1,4 @@
 # Crops
-Discussion on how to best manage a Crops data provider so that it's most widely useable.
+Ongoing discussion on the creation of an openly licensed database of factual crop data.
 
+Join us in the [issues](https://github.com/openfarmcc/Crops/issues) and [wiki](https://github.com/openfarmcc/Crops/wiki/Similar-projects).
